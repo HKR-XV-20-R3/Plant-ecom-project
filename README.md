@@ -17,22 +17,7 @@ This ensures a smooth shopping experience for users and efficient management for
 
 ---
 
-## 2. Problem Statement  
-Traditional plant shopping relies heavily on physical nurseries, causing issues such as:  
-- Limited plant variety  
-- No centralized care information  
-- Inefficient manual order tracking  
-- Difficulty for sellers to manage customers and inventory  
-
-A dedicated plant-focused e-commerce platform solves these problems by:  
-- Providing plant variety and information  
-- Enabling easy shopping from home  
-- Supporting digital order and inventory management  
-- Offering communication tools between buyers and seller/admin  
-
----
-
-## 3. Project Objectives & Expected Outcomes  
+## 2. Project Objectives & Expected Outcomes  
 
 ### **Objectives**
 - Develop a responsive, user-friendly e-commerce website for plants  
@@ -49,7 +34,7 @@ A dedicated plant-focused e-commerce platform solves these problems by:
 
 ---
 
-## 4. Scope of the Project  
+## 3. Scope of the Project  
 
 ### **User Features**
 - User registration & secure login  
@@ -73,7 +58,7 @@ A dedicated plant-focused e-commerce platform solves these problems by:
 
 ---
 
-## 5. Database Design  
+## 4. Database Design  
 
 ### **Entities & Attributes**
 
@@ -105,7 +90,7 @@ A dedicated plant-focused e-commerce platform solves these problems by:
 
 ---
 
-## 6. Database Integration
+## 5. Database Integration
 The backend (PHP) interacts with the database to ensure real-time updates.
 
 ### **Key Backend Operations**
@@ -122,7 +107,7 @@ Session management ensures users stay logged in across pages.
 
 ---
 
-## 7. Module-Wise Implementation  
+## 6. Module-Wise Implementation  
 
 ### **1. User Authentication Module**
 Files: `login.php`, `register.php`  
@@ -156,7 +141,7 @@ Files: `admin_page.php`, `admin_orders.php`, `admin_users.php`, etc.
 
 ---
 
-## 8. Project Structure  
+## 7. Project Structure  
 
 ## Project Structure 
 
@@ -224,7 +209,7 @@ project/
 
 ---
 
-## 10. Screenshots  
+## 9. Screenshots  
 
 ```
 ![Homepage](screenshots/home_page.png)
@@ -235,9 +220,9 @@ project/
 
 ---
 
-## 11. Full Project Report  
+## 10. Full Project Report  
 You can attach your detailed academic PDF report here:  
- **[Download Full Report](report/Plant_Ecommerce_Report.pdf)**  
+ **[Download Full Report](https://github.com/HKR-XV-20-R3/Plant-ecom-project/blob/main/Project%20report/ECE_3100_Project_Report_2110015.pdf)**  
 *(Add your PDF in a folder named `report/` and link it above.)*
 
 ---
